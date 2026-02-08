@@ -19,20 +19,12 @@
 -- KPI Cards
 - This dashboard helps understand sales trends, profitability, and customer behavior using interactive visual analytics.
 
-## Repository Structure
-- PowerBI-Retail-Analytics-Hub/
-- │
-- ├── data/ │
-- ├── Details.csv
-- │
-- └── Orders.csv
-- │
-- ├── reports/
-- │
-- ├── EcommercePowerBI1.pbix
-- │
-- └── EcommercePowerBI2.pbix
-- │
-- └── screenshots/
-- └── screenshot1.png
-- └── screenshot2.png
+## Tools Used
+- Microsoft Power BI
+- Power Query
+- DAX
+- Excel / CSV Dataset
+
+## Created By
+Kumari Neha
+Data Analytics Enthusiast | Power BI | Python | Dashboarding
