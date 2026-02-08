@@ -27,4 +27,4 @@
 
 ## Created By
 Kumari Neha
-Data Analytics Enthusiast | Power BI | Python | Dashboarding
+| Data Analytics Enthusiast | Power BI | Python | Dashboarding
