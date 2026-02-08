@@ -7,7 +7,6 @@
 - This dashboard helps understand sales trends, profitability, and customer behavior using interactive visual analytics.
 
 ### 🛠️ What I Implemented in Power BI
-
 - ✔ Data Cleaning & Transformation in Power Query
 - ✔ Data Modeling
 - ✔ DAX Measures & Calculations
